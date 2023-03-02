@@ -1,0 +1,9 @@
+# Cross                            python fractals.py fractals/cross.txt 950 250 250 0.5
+# Crystal:                         python fractals.py fractals/crystal.txt 580 920 100 0.5
+# no_name                          python fractals.py fractals/no_name.txt 960 1020 120 0.51
+# Board                            python fractals.py fractals/board.txt 500 1000 100 0.52
+# Pentaplexity                     python fractals.py fractals/pentaplexity.txt 550 850 150 0.5
+# Tiles                            python fractals.py fractals/tiles.txt 900 800 30 0.75
+# Triangle                         python fractals.py fractals/triangle.txt 1000 250 60 0.8
+# Twin-dragon-curve                python fractals.py fractals/twin-dragon-curve.txt 1000 250 90 0.8
+# Rings:                           python fractals.py fractals/rings.txt 700 250 60 0.5
